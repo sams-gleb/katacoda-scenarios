@@ -1,1 +1,1 @@
-ls
+docker pull jenkins/jenkins:2.112-alpine

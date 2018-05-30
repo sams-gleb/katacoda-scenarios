@@ -1,1 +1,1 @@
-finish
+it's finished. you've learned everything
